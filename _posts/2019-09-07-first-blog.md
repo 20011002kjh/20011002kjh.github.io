@@ -8,4 +8,4 @@ categories:
 
 垃圾
 
-![timg](../public/image/timg.jpeg)
+![image-20190907120438507](../public/image/image-20190907120438507.png)
